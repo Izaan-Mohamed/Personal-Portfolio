@@ -1,0 +1,35 @@
+/* General Page Styling */
+body {
+    background-color: #b30000; /* Deep red background */
+    color: white;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header Styling */
+header {
+    text-align: center;
+    padding: 30px 20px;
+    border: 2px solid white;
+    margin: 20px;
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+/* Section Boxes */
+section {
+    background-color: rgba(255, 255, 255, 0.1);
+    border: 2px solid white;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+/* Footer Styling */
+footer {
+    text-align: center;
+    padding: 15px;
+    border-top: 2px solid white;
+    margin: 20px;
+    background-color: rgba(255, 255, 255, 0.1);
+}
