@@ -1,13 +1,13 @@
-/* General Page Styling */
+
 body {
-    background-color: #000000; /* Deep red background */
+    background-color: #000000; 
     color: white;
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
 }
 
-/* Layout container for content + image */
+
 .main-container {
     display: flex;
     justify-content: space-between;
@@ -16,13 +16,13 @@ body {
     flex-wrap: wrap;
 }
 
-/* Left content column */
+
 .content {
     flex: 1;
     max-width: 60%;
 }
 
-/* Right image box */
+
 .image-space {
     flex: 0 0 35%;
     min-height: 400px;
@@ -34,7 +34,7 @@ body {
     justify-content: center;
 }
 
-/* Header Styling */
+
 header {
     text-align: center;
     padding: 30px 20px;
@@ -43,7 +43,7 @@ header {
     background-color: rgba(255, 255, 255, 0.1);
 }
 
-/* Section Boxes */
+
 section {
     background-color: rgba(255, 255, 255, 0.1);
     border: 2px solid white;
@@ -52,7 +52,7 @@ section {
     border-radius: 10px;
 }
 
-/* Button Styling */
+
 .button-container {
     margin-top: 20px;
 }
@@ -73,7 +73,7 @@ section {
     background-color: #e6e6e6;
 }
 
-/* Footer Styling */
+
 footer {
     text-align: center;
     padding: 15px;
